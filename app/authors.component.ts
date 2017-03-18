@@ -13,7 +13,6 @@ import { AuthorService } from './author.service';
             </ul>
             `,
   providers: [AuthorService]
-
 })
 
 export class AuthorsComponent {
